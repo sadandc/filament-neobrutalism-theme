@@ -21,7 +21,8 @@
     "repositories": [
         {
           "type": "vcs",
-          "url": "https://github.com/sadandc/filament-neobrutalism-theme"
+          "url": "https://github.com/sadandc/filament-neobrutalism-theme",
+          "canonical": false
         }
     ],
     "require": {
